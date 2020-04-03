@@ -1,0 +1,22 @@
+{
+  "name": "randall",
+  "version": "1.0.0",
+  "description": "Downloads a random node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadeRoseMusic/randall-js.git"
+  },
+  "author": "Jade Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JadeRoseMusic/randall-js/issues"
+  },
+  "homepage": "https://github.com/JadeRoseMusic/randall-js#readme",
+  "dependencies": {
+    "all-the-package-names": "^1.3905.0"
+  }
+}
